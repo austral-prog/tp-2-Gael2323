@@ -8,7 +8,7 @@ def change():
     cent = int((vuelto - pesos)*100)
     print("Ingresar gasto:")
     print(expense)
-    print("Dinero recibido:")
+    print("Dinero recibido")
     print(money)
     print(f"\n")
     print("Vuelto:")
